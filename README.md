@@ -11,9 +11,9 @@
   
 <h2>Apresentação:</h2>
 
-<p>Desde o início de minha carreira, sempre me dediquei a aprender novas tecnologias e metodologias de desenvolvimento de software. Acredito que a constante atualização é fundamental para o crescimento profissional e para atender às demandas do mercado de tecnologia.</p>
-<p>Além de minhas habilidades técnicas, também sou uma pessoa proativa e focada em resultados. Gosto de trabalhar em equipe e busco sempre entregar projetos de alta qualidade.</p>
-<p>Atualmente, estou em busca de uma primeira oportunidade de trabalho como desenvolvedor web. Se você estiver interessado em entrar em contato para discutir possíveis oportunidades de trabalho ou colaboração, fique à vontade para me enviar um e-mail ou mensagem pelo LinkedIn. Eu gostaria muito de ouvir suas ideias e ver como posso ajudar a fazê-las acontecer.</p>
+<p>Eu sou um desenvolvedor full stack iniciante e estou sempre empenhado em aprender mais e mais. Quando se trata de tecnologia, então, eu me dedico ainda mais. Sou uma pessoa comunicativa e empática, gosto de trabalhar tanto sozinho quanto em equipe </p>
+<p>Se estiver interessado em saber mais sobre minhas habilidades, estou disponível para novas oportunidades sempre e atualmente estou em busca da minha primeira oportunidade como</p>
+<p>programador ou desenvolvedor. Meus contatos podem ser encontrados no meu perfil.</p>
   
 <h2>Habilidades:</h2>
 
@@ -21,12 +21,9 @@
   <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  
+
 </div>
 
 <h2>Contato:</h2> 
