@@ -12,8 +12,7 @@
 <h2>Apresentação:</h2>
 
 <p>Eu sou um desenvolvedor full stack iniciante e estou sempre empenhado em aprender mais e mais. Quando se trata de tecnologia, então, eu me dedico ainda mais. Sou uma pessoa comunicativa e empática, gosto de trabalhar tanto sozinho quanto em equipe </p>
-<p>Se estiver interessado em saber mais sobre minhas habilidades, estou disponível para novas oportunidades sempre e atualmente estou em busca da minha primeira oportunidade como</p>
-<p>programador ou desenvolvedor. Meus contatos podem ser encontrados no meu perfil.</p>
+<p>Se estiver interessado em saber mais sobre minhas habilidades, estou disponível para novas oportunidades sempre e atualmente estou em busca da minha primeira oportunidade como programador ou desenvolvedor. Meus contatos podem ser encontrados no meu perfil.</p>
   
 <h2>Habilidades:</h2>
 
